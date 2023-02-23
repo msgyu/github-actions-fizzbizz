@@ -1,4 +1,0 @@
-name: brandchs check
-on:
-  push:
-    - main
