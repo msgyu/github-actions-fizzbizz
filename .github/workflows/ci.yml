@@ -6,8 +6,7 @@ on:
   pull_request:
     paths-ignore:
       - "docs/**"
-
-
+      
 jobs:
   unit-test:
     name: Unit Test
